@@ -1,0 +1,19 @@
+.header{
+    background-color:black;
+    color:white;
+    text-align:center;
+    height: 70px;
+    font-family:"Roboto";
+}
+.second-part{
+    background-color: darkblue;
+    color:white;
+    padding:20px;
+    font-family:"Roboto";
+    
+}
+button{
+    color:white;
+    background-color: darkgreen;
+    margin-right:20px;
+}
