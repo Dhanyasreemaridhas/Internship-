@@ -6,12 +6,15 @@
     background-size:cover;
     padding:80px;
 }
-.card{
+
+.insidebox{
     
     color:white;
-    font-family:Bree Serif;
+    font-family:"Bree Serif";
     background-color:#00000080;
     padding:40px;
     border-color:#48ee59;
     border-width:5px;
+    text-align:center;
+    border-style:solid;
 }
