@@ -1,0 +1,50 @@
+ .background-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+    
+    
+}
+
+.card {
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+    background-color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #5752ab;
+    font-size: 30px;
+    font-family: "bree serif";
+    
+}
+
+p {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.button1 {
+    color: #171f46;
+    border-width: 0px;
+    text-align: center;
+    font-size: 10px;
+    background-color: #ffffff;
+    margin-right: 10px;
+    border-color: #d7dfe9;
+}
+
+.button2 {
+    background-color: #5752ab;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 10px;
+    padding: 5px;
+    border-width: 0px;
+    border-color: #d7dfe9;
+
+
+    margin-left: 10px;
+}
